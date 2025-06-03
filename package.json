@@ -22,7 +22,8 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.1",
-    "vite": "^5.0.5"
+    "vite": "^5.0.5",
+    "stylelint-fix": "^2.2.9"
   },
   "scripts": {
     "dev": "vite",
